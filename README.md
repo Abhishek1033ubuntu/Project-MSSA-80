@@ -28,7 +28,7 @@ To set up dependencies and run the core calculation simulation, deploy the follo
 
 ```bash
 # Clone the Core Architecture Repository
-git clone [https://github.com/your-username/project-mssa-80.git](https://github.com/your-username/project-mssa-80.git)
+git clone [https://github.com/your-username/project-mssa-80.git](https://github.com/Abhishek1033ubuntu/project-mssa-80.git)
 cd project-mssa-80
 
 # Install Open-Source Computation Stack
