@@ -1,6 +1,5 @@
 # Project MSSA-80: Mid-Size Supersonic Commercial Airliner
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Project MSSA-80 is an open-source analytical conceptual design framework for an **80-seat commercial supersonic transport jet** optimized for trans-Atlantic ranges (4,200 nm) cruising at **Mach 1.7**. 
@@ -36,3 +35,20 @@ pip install -r requirements.txt
 
 # Run Analytical Aero-Thermal Validation Engine
 python mssa_80_simulation.py
+
+# Important Notice
+
+This repository contains code published for demonstration and testing purposes only. 
+The underlying intellectual property (IP) — including inventions, processes, methods, 
+algorithms, and research results — is proprietary and protected under Indian law and 
+international treaties (Berne Convention, Paris Convention, TRIPS Agreement).
+
+By accessing this repository, you agree:
+- The code may be viewed and studied for non-commercial, educational, or research use only.
+- Any reproduction, modification, distribution, or commercialization of the IP is strictly prohibited.
+- Enforcement of rights will be pursued under Indian jurisdiction and applicable international treaties.
+
+For licensing inquiries or commercial permissions, please contact:
+Abhishek Singh  | UIDAI: 9414 9122 9013
+Email: abhishek1033@gmail.com | abhishek.s@live.in
+Location: Madhya Pradesh, India
