@@ -1,10 +1,7 @@
 # Project MSSA-80: Mid-Size Supersonic Commercial Airliner
 
-[![Python: 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21529549.svg)](https://doi.org/10.5281/zenodo.21529549)
-![Status](https://img.shields.io/badge/Status-Research_POC-orange)
-![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
-
+[![Python: 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21529549.svg)](https://doi.org/10.5281/zenodo.21529549) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+---
 Project MSSA-80 is an open-source analytical conceptual design framework for an **80-seat commercial supersonic transport jet** optimized for trans-Atlantic ranges (4,200 nm) cruising at **Mach 1.7**. 
 
 By leveraging **Advanced Composite Materials (ACMs)**, aeroelastic tailoring, and modern non-afterburning Variable-Cycle Engine architecture, this model demonstrates physical and financial feasibility capable of breaking even at **1.2x current international Business Class ticket pricing**.
