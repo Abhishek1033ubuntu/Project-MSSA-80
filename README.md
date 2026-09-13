@@ -9,8 +9,6 @@ Project MSSA-80 is an open-source analytical conceptual design framework for an 
 
 By leveraging **Advanced Composite Materials (ACMs)**, aeroelastic tailoring, and modern non-afterburning Variable-Cycle Engine architecture, this model demonstrates physical and financial feasibility capable of breaking even at **1.2x current international Business Class ticket pricing**.
 
-
-
 ---
 
 ## 🚀 Core Architectural Parameters
@@ -28,18 +26,21 @@ The repository contains an analytical simulation script (`mssa_80_simulation.py`
 ### Running the Verification Model
 To set up dependencies and run the core calculation simulation, deploy the following local execution context:
 
-```bash
 # Clone the Core Architecture Repository
+```
 git clone [https://github.com/Abhishek1033ubuntu/project-mssa-80.git](https://github.com/Abhishek1033ubuntu/project-mssa-80.git)
 cd project-mssa-80
-
+```
 # Install Open-Source Computation Stack
+```
 pip install -r requirements.txt
-
+```
 # Run Analytical Aero-Thermal Validation Engine
+```
 python mssa_80_simulation.py
-
+```
 ---
+
 # Important Notice
 
 This repository contains code published for demonstration and testing purposes only. 
